@@ -13,7 +13,7 @@ import lombok.Data;
 public class Person {
     @Id
     @GeneratedValue
-    private Long id;
+    private Integer id;
 
     @Column(name = "first_name")
     private String firstName;
