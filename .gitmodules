@@ -1,0 +1,3 @@
+[submodule "spring-boot-api-gateway"]
+	path = spring-boot-api-gateway
+	url = git@github.com:asfung/spring-boot-api-gateway.git
