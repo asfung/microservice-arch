@@ -1,4 +1,4 @@
 ## Microservice Arch, Spring Boot
 
-cuz Microservice that must submodule style repo 
+cuz Microservice that must be submodule style repo 
 
